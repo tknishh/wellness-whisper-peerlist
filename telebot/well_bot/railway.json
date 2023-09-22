@@ -1,0 +1,19 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "phases": {},
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "npm install",
+    "nixpacksPlan": {
+      "phases": {
+        "setup": {
+          "nixPkgs": ["...", "ffmpeg"]
+        }
+      }
+    }
+  },
+  "deploy": {
+    "startCommand": "npm start",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}

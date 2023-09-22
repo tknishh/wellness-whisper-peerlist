@@ -1,0 +1,55 @@
+{
+  "name": "telegram_gpt_bot",
+  "version": "1.0.0",
+  "description": "[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/e7XF13?referralCode=eZ-TPi)",
+  "main": "index.js",
+  "homepage": "https://dynobase.dev",
+  "scripts": {
+    "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
+    "start": "ts-node src/index.ts",
+    "ingest": "tsx -r dotenv/config scripts/ingest-data.ts"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "keywords": [],
+  "author": "Abhinaw Ratan",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@pinecone-database/pinecone": "^0.0.14",
+    "@types/node": "^18.15.11",
+    "ai": "^2.1.18",
+    "axios": "^1.3.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "googlethis": "^1.7.1",
+    "langchain": "^0.0.83",
+    "lzma": "^2.3.2",
+    "openai": "^3.2.1",
+    "pdf-parse": "^1.1.1",
+    "pinecone-client": "^1.1.0",
+    "react-dropzone": "^14.2.3",
+    "telegraf": "^4.12.2",
+    "ts-node": "^10.9.1",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.4"
+  },
+  "volta": {
+    "node": "18.15.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/fluent-ffmpeg": "^2.1.21",
+    "@types/pdf-parse": "^1.1.1",
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhinawRatan/Telegram_Buisness_Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbhinawRatan/Telegram_Buisness_Bot/issues"
+  }
+}
