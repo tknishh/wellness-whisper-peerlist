@@ -2,7 +2,7 @@
 
 Welcome to Wellness Whisper, your personal psychiatrist on Telegram!
 
-![Wellness Whisper Logo](your-logo.png)
+![Wellness Whisper Logo](logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
