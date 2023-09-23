@@ -30,9 +30,9 @@ Wellness Whisper Peerlist is your personal psychiatrist on Telegram. It's design
 ## Getting Started
 To start using Wellness Whisper Peerlist:
 
-- Make sure have telegram on your device if you don't already.
+- Make sure you have Telegram on your device if you don't already.
 
-- And that's it, click [here](t.me/naw_next_bot) to redirect to the bot.
+- And that's it, click here t.me/naw_next_bot to redirect to the bot.
 
 - Click on `start` to initiate your conversation with the Nyx (Bot's name).
 
