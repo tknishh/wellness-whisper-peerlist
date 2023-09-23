@@ -6,13 +6,15 @@ Welcome to Wellness Whisper, your personal psychiatrist on Telegram!
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Steps to Run](#steps-to-run)
-- [Contributors](#contributors)
-- [License](#license)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Important Note](#important-note)
+- [Feedback](#feedback)
+- [Authors](#authors)
 
 ## Introduction
 
-Wellness Whisper Peerlist is your personal psychiatrist in Telegram. It's designed to provide compassionate support and guidance on various mental health and emotional well-being topics. With a remarkable empathy level, this Telegram bot specializes in helping individuals aged 15 to 40.
+Wellness Whisper Peerlist is your personal psychiatrist on Telegram. It's designed to provide compassionate support and guidance on various mental health and emotional well-being topics. With a remarkable empathy level, this Telegram bot specializes in helping individuals aged 15 to 40.
 
 ## Features
 - **Empathetic Support:** The bot offers empathetic and understanding responses to users, creating a safe space for discussing mental health concerns.
@@ -28,23 +30,21 @@ Wellness Whisper Peerlist is your personal psychiatrist in Telegram. It's design
 ## Getting Started
 To start using Wellness Whisper Peerlist:
 
-- Install Telegram: If you don't have Telegram installed, download it on your mobile device or computer.
+- Make sure have telegram on your device if you don't already.
 
-- Search for Wellness Whisper Peerlist: Open Telegram and search for "Wellness Whisper Peerlist" in the search bar.
+- And that's it, click [here](t.me/naw_next_bot) to redirect to the bot.
 
-- Start a Conversation: Initiate a conversation with the bot, and it will guide you through the process.
+- Click on `start` to initiate your conversation with the Nyx (Bot's name).
 
-- Engage and Share: Feel free to share your feelings and thoughts with the bot. It's here to help you on your mental health journey.
-
-## Steps to Run
-
+- Feel free to share your feelings and thoughts with the bot. It's here to help you on your mental health journey.
 
 ## Important Note
-While Wellness Whisper Peerlist provides valuable support, it is not a substitute for professional mental health care. If you are in crisis or require immediate assistance, please seek help from a qualified human mental health professional or a helpline.
+While Wellness Whisper provides valuable support, it is not a substitute for professional mental health care. If you are in crisis or require immediate assistance, please seek help from a qualified human mental health professional or a helpline.
 
 ## Feedback
 Your feedback is important to us. If you have any suggestions or encounter any issues while using Wellness Whisper Peerlist, please reach out to us through the Telegram bot.
 
+## Authors
+- [@AbhinawRatan](https://github.com/AbhinawRatan)
+- [@tknishh](https://github.com/tknishh)
 
-
-Thank you for checking out Wellness Whisper, and we hope it can make a positive impact on your emotional well-being journey!
