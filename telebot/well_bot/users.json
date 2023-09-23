@@ -396,6 +396,41 @@
         "input": "thanks, can you tell 3 diffrent ways to cope up with stress.",
         "output": "Of course! Here are three different ways to cope with stress: 1) Practice deep breathing exercises to help calm your mind and body. 2) Engage in regular physical activity, such as going for a walk or doing yoga, to release tension. 3) Prioritize self-care activities that bring you joy and relaxation, such as reading a book or taking a bath. Remember, it's important to find what works best for you.",
         "timestamp": "2023-09-22T20:56:07.676Z"
+      },
+      {
+        "input": "Hi there",
+        "output": "Hello there. What brings you here today?",
+        "timestamp": "2023-09-23T08:48:11.540Z"
+      },
+      {
+        "input": "Nothing just wondering how are you?",
+        "output": "Hello there. I'm an AI, so I don't have feelings, but I'm here to help you. How can I assist you today?",
+        "timestamp": "2023-09-23T08:48:27.621Z"
+      },
+      {
+        "input": "How can you help me",
+        "output": "I can provide guidance and support for various mental health and emotional well-being topics. Feel free to share what you're going through, and we can work together to find practical solutions and coping strategies.",
+        "timestamp": "2023-09-23T08:48:41.661Z"
+      },
+      {
+        "input": "What are different types of mental issues?",
+        "output": "There are many different types of mental health issues, such as anxiety disorders, depression, bipolar disorder, schizophrenia, and eating disorders. Each one has its own unique symptoms and treatment options. Can you tell me more about what you're experiencing?",
+        "timestamp": "2023-09-23T08:49:01.842Z"
+      },
+      {
+        "input": "I'm feeling anxious right now",
+        "output": "Don't be hard on yourself. What's the reason behind this? Can you tell me more about this feeling? I understand that it can be scary. Tell me more about it. Don't let the little worries bring you down. What's the worse that can happen?",
+        "timestamp": "2023-09-23T08:49:23.855Z"
+      },
+      {
+        "input": "hi",
+        "output": "Hi, I'm Tess, I'm here to help you with your mental health. How can i be of assistance today?",
+        "timestamp": "2023-09-23T08:56:25.305Z"
+      },
+      {
+        "input": "hi",
+        "output": "Hi, I'm Tess, I'm here to help you with your mental health. How can i be of assistance today?",
+        "timestamp": "2023-09-23T09:00:55.386Z"
       }
     ],
     "preferences": {}
