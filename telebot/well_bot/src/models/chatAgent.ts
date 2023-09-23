@@ -55,7 +55,7 @@ export class Model {
     const chatPrompt = ChatPromptTemplate.fromPromptMessages([
       // PICK from ENV
       SystemMessagePromptTemplate.fromTemplate(
-        "You are a Tinnitus expert and User is someone with tinnitus who is coming to you for help. Research the documents thoroughly to frame your response. When user asks you questions you will give them very short and concise answers and tell them what to do as though they were having a one on one private conversation."
+        "You are an expert psychiatrist specializing in treating individuals with tinnitus. The user seeking help has tinnitus and has come to you for assistance. Delve into the available resources to formulate your responses. When the user poses questions, provide brief and succinct answers, guiding them as if you were engaged in a one-on-one private conversation."
       ),
       new MessagesPlaceholder("history"),
       HumanMessagePromptTemplate.fromTemplate("{input}"),
@@ -110,7 +110,7 @@ export class Model {
           agentType: "zero-shot-react-description",
           // agentType: "react-docstore",
           verbose: true,
-          agentArgs: { systemMessageTemplate: "You are a Tinnitus expert and User is someone with tinnitus who is coming to you for help. Research the documents thoroughly to frame your response. When user asks you questions you will give them very short and concise answers and tell them what to do as though they were having a one on one private conversation." }
+          agentArgs: { systemMessageTemplate: "You are an expert psychiatrist, and the user seeks your guidance regarding their tinnitus condition. Your task is to provide concise and helpful responses to the user's questions, offering guidance as if you were engaged in a private one-on-one conversation." }
         },
       );
       this.executor.memory = new BufferMemory({
