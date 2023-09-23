@@ -4,7 +4,7 @@ dotenv.config();
 import { Telegraf } from "telegraf";
 import { Model as ChatModel } from "./models/chat";
 import fs from 'fs';
-import { textToSpeech, deleteAudioFilesAfterSent } from "./lib/htApi"; // Import the textToSpeech function
+// import { textToSpeech, deleteAudioFilesAfterSent } from "./lib/htApi"; // Import the textToSpeech function
 
 const telegramToken = process.env.TELEGRAM_TOKEN as string;
 if (!telegramToken) {
@@ -135,20 +135,20 @@ bot.on("message", async (ctx) => {
     await ctx.reply(response);
     
     // Generate speech from the response and send it as voice reply
-    try {
-      const responseAudioPath = await textToSpeech(response);
-      await ctx.sendChatAction("typing");
-      await ctx.replyWithVoice({
-        source: fs.createReadStream(responseAudioPath),
-        filename: "response.mp3",
-      });
-      await deleteAudioFilesAfterSent(responseAudioPath);
-    } catch (error) {
-      console.log(error);
-      await ctx.reply(
-        "Whoops! There was an error while synthesizing the response as speech."
-      );
-    }
+  //   try {
+  //     const responseAudioPath = await textToSpeech(response);
+  //     await ctx.sendChatAction("typing");
+  //     await ctx.replyWithVoice({
+  //       source: fs.createReadStream(responseAudioPath),
+  //       filename: "response.mp3",
+  //     });
+  //     await deleteAudioFilesAfterSent(responseAudioPath);
+  //   } catch (error) {
+  //     console.log(error);
+  //     await ctx.reply(
+  //       "Whoops! There was an error while synthesizing the response as speech."
+  //     );
+  //   }
   } catch (error) {
     // ... (existing error handling)
   }
