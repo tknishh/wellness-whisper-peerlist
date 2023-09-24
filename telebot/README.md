@@ -1,6 +1,8 @@
+# Overview
+
 Hey there, welcome to Wellness Whisper Peerlist – your virtual mental health buddy on Telegram! 🚀 Get ready for a digital therapist that's not your average bot. 
 
-Features:
+## Features:
 
   - 🌟 Empathetic Support: Our bot's got a heart of gold, offering you a judgment-free zone to chat about your mental health stuff.
 
@@ -14,13 +16,13 @@ Features:
 
  
 
-TechStack:
+## TechStack:
 
-Railways: To deploy the bot, we used railways, really appreciated it's interface and ease to use.
+**Railways:** To deploy the bot, we used railways, really appreciated it's interface and ease to use.
 
-Telegram: But obvious the bot is running on Telegram, with beautiful interface.
+**Telegram:** But obvious the bot is running on Telegram, with beautiful interface.
 
-LangChain:  The bot is trained on available conversational datasets from a real therapy session and books like Diagnostic and Statistical Manual of Mental Disorders (DSM-5), The Oxford Handbook of Psychiatry.
+**LangChain:**  The bot is trained on available conversational datasets from a real therapy session and books like the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) and The Oxford Handbook of Psychiatry.
 
-Inspired by the need for accessible and compassionate mental health support, Wellness Whisper Peerlist is your virtual ally on the path to well-being. So, hop on Telegram, start a chat with Nyx, and let's embark on your mental health journey together! Remember, while we're here to help, we're not a substitute for professional care in crisis situations – reach out to human mental health professionals or helplines when needed. Your wellness matters, and we're here to support you.
+Wellness Whisper Peerlist is your virtual ally on the road to well-being because of the need for easily accessible and compassionate mental health support. So, hop on Telegram, start a chat with Nyx, and let's embark on your mental health journey together! Remember, while we're here to help, we're not a substitute for professional care in crisis situations; reach out to human mental health professionals or helplines when needed. Your wellness matters, and we're here to support you.
 
