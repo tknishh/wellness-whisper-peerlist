@@ -32,7 +32,7 @@ To start using Wellness Whisper Peerlist:
 
 - Make sure you have Telegram on your device if you don't already.
 
-- And that's it, click [here](https://web.telegram.org/k/#@naw_next_bot)  to redirect to the bot.
+- And that's it, click [here](https://t.me/naw_next_bot)  to redirect to the bot.
 
 - Click on `start` to initiate your conversation with the Nyx (Bot's name).
 
