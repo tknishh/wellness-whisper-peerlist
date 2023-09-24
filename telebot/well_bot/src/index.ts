@@ -116,7 +116,7 @@ bot.on("message", async (ctx) => {
     let textTemp = text.toLowerCase();
     // let flag = true;
     if (textTemp == "hi" || textTemp == "hey" || textTemp == "hello" ){
-      response = "Hi, I'm Tess, I'm here to help you with your mental health. How can i be of assistance today?";
+      response = "Hi, I'm Nyx, feel free to talk to me. How can i be of assistance today?";
       // flag = false;
     } else {
       response = await model.call(text);
